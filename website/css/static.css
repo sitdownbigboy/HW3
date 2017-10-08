@@ -1,0 +1,56 @@
+﻿body{color:white;
+    width:800px;
+    text-align:center;
+}
+
+#header {border:20px solid blue;
+    background-color: blue;
+    width: 187%
+}
+
+
+.link-group {
+    border-width: 15px;
+    border-style: solid;
+    border-color: green;
+    background-color: green;
+    width: 188.4%;
+    word-spacing: 5px;
+}
+
+a:link {
+    color: white;}
+
+a:visited { color:white;}
+
+a:hover {color: blue;}
+
+li {
+    display: inline;}
+
+.article{border:40px solid pink;
+    background-color: pink;
+    height:250px;
+    
+}
+
+#section1 {border:40px solid brown;
+    background-color: brown;
+
+}
+
+#section2 {border:40px solid brown;
+    background-color: brown;
+}
+
+#aside {border: 40px solid cyan;
+    background-color: cyan;
+    width: 41%;
+    height: 234.7px;
+}
+
+
+#footer {border: 15px solid green;
+    background-color: green;
+    width: 180%
+}
